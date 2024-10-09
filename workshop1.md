@@ -1,4 +1,4 @@
-kanav und aaryen
+*kanav und aaryen*
 
 wir haben gelernt wie das Netzwerk funktioniert und wie wir unser Netzwerk bekommen. wir haben ebenso auch über switches, router, servers und Funktürme gelernt. es war spannend. der Kurs Leiter war sehr nett und lustig .
 
